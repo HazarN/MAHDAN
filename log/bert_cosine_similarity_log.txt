@@ -1,0 +1,25 @@
+Log file created. (log/bert_cosine_similarity_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.96457684]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.63664794]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.62644726]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.6923945]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.5978833]]
+
+Total time: 6.0720438957214355 seconds

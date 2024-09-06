@@ -1,0 +1,28 @@
+Log file created. (log/ollama_model_mistral_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: İlk cümle: 0
+İkinci cümle: 3
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: 1 (farklı anlam)
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 1
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi bir banka müdürü.
+Result: İlk Cümle: farklı anlam (0)
+
+İkinci Cümle: zıt anlam (2)
+
+Total time: 41.6445894241333 seconds

@@ -1,0 +1,2 @@
+Log file created. (log/nli_model_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
