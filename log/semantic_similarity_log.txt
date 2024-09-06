@@ -22,4 +22,608 @@ Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olmas�
 Sentence2: C kişisi bir banka müdürü.
 Result: tensor([[0.4174]])
 
-Total time: 0.4199411869049072 seconds
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5633]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.9611]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.2933]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7300]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.3456]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7152]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7055]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.9611]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.7229]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.7662]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.5682]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.4091]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5830]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[1.]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.2965]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7454]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.3512]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7358]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7210]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.7214]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7229]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.9244]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.5951]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.4978]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5421]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7229]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.3027]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7590]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4069]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7051]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.8378]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.7751]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7662]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.9244]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.6056]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.5087]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5514]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7662]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.3860]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.8467]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4281]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7629]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.9040]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.5339]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.5682]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.5951]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.6056]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.4026]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.4548]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.5682]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.2788]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.5494]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4239]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5214]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.5578]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.4174]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.4091]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.4978]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.5087]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4026]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.7029]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.4091]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.2835]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.4592]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.6335]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5594]])
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.4836]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.5633]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.5830]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.5421]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.5514]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4548]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.7029]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.5830]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.1870]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.5537]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4228]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.6492]])
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.5966]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.9611]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[1.]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.7229]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.7662]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.5682]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.4091]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5830]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.2965]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7454]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.3512]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7358]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7210]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.2933]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.2965]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.3027]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.3860]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.2788]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.2835]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.1870]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.2965]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.2945]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.1780]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.3192]])
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.3263]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.7300]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7454]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.7590]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.8467]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.5494]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.4592]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5537]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7454]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.2945]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4339]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.8036]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.8807]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.3456]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.3512]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.4069]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.4281]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4239]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.6335]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.4228]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.3512]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.1780]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.4339]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4567]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.4244]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.7152]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7358]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.7051]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.7629]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.5214]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.5594]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.6492]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7358]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.3192]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.8036]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4567]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7963]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: tensor([[0.7055]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7210]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.8378]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.9040]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.5578]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi bir banka müdürü.
+Result: tensor([[0.4836]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: tensor([[0.5966]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.7210]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: tensor([[0.3263]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.8807]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4244]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7963]])
+
+Total time: 19.682077407836914 seconds

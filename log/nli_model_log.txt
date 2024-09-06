@@ -1,2 +1,307 @@
 Log file created. (log/nli_model_log.txt)
 Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'ENTAILMENT', 'score': 0.7691475749015808}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.5896795392036438}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.717025876045227}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.6190453767776489}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi bir banka müdürü.
+Result: {'label': 'NEUTRAL', 'score': 0.5735637545585632}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: {'label': 'CONTRADICTION', 'score': 0.8778255581855774}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'ENTAILMENT', 'score': 0.7691475749015808}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: {'label': 'NEUTRAL', 'score': 0.5949161052703857}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: {'label': 'CONTRADICTION', 'score': 0.6229683756828308}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kötü bir insan.
+Result: {'label': 'CONTRADICTION', 'score': 0.6391960978507996}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: {'label': 'CONTRADICTION', 'score': 0.39820605516433716}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: {'label': 'CONTRADICTION', 'score': 0.6342589259147644}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: {'label': 'ENTAILMENT', 'score': 0.9611104726791382}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.5884826183319092}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.7345539331436157}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.564023494720459}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: {'label': 'NEUTRAL', 'score': 0.5176191329956055}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: {'label': 'CONTRADICTION', 'score': 0.8998844027519226}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'ENTAILMENT', 'score': 0.9861453771591187}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: {'label': 'NEUTRAL', 'score': 0.6025750637054443}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: {'label': 'CONTRADICTION', 'score': 0.6486769318580627}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: {'label': 'CONTRADICTION', 'score': 0.6597620844841003}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: {'label': 'ENTAILMENT', 'score': 0.40402743220329285}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: {'label': 'CONTRADICTION', 'score': 0.6388704180717468}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: {'label': 'CONTRADICTION', 'score': 0.5278008580207825}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'CONTRADICTION', 'score': 0.6118601560592651}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.7739003896713257}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: {'label': 'CONTRADICTION', 'score': 0.49734655022621155}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi bir banka müdürü.
+Result: {'label': 'CONTRADICTION', 'score': 0.8472043871879578}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: {'label': 'CONTRADICTION', 'score': 0.9587122797966003}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'CONTRADICTION', 'score': 0.6118601560592651}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: {'label': 'CONTRADICTION', 'score': 0.6673837900161743}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: {'label': 'CONTRADICTION', 'score': 0.5868286490440369}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: {'label': 'CONTRADICTION', 'score': 0.7412387132644653}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: {'label': 'CONTRADICTION', 'score': 0.6975939273834229}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: {'label': 'CONTRADICTION', 'score': 0.7404382228851318}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: {'label': 'NEUTRAL', 'score': 0.517585277557373}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.48372310400009155}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'NEUTRAL', 'score': 0.7809376120567322}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.7549084424972534}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi bir banka müdürü.
+Result: {'label': 'CONTRADICTION', 'score': 0.896523654460907}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: {'label': 'CONTRADICTION', 'score': 0.932831883430481}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.48372310400009155}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: {'label': 'CONTRADICTION', 'score': 0.6630845069885254}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: {'label': 'ENTAILMENT', 'score': 0.4828440546989441}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: {'label': 'CONTRADICTION', 'score': 0.8870726823806763}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: {'label': 'NEUTRAL', 'score': 0.44302815198898315}
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: {'label': 'ENTAILMENT', 'score': 0.9105066657066345}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: {'label': 'CONTRADICTION', 'score': 0.4570322632789612}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'CONTRADICTION', 'score': 0.5596138834953308}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.6220995187759399}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.6555491089820862}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: {'label': 'NEUTRAL', 'score': 0.5217778086662292}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: {'label': 'CONTRADICTION', 'score': 0.6414043307304382}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'CONTRADICTION', 'score': 0.5596138834953308}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: {'label': 'CONTRADICTION', 'score': 0.6893278956413269}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: {'label': 'CONTRADICTION', 'score': 0.7910680174827576}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: {'label': 'CONTRADICTION', 'score': 0.8199467062950134}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: {'label': 'CONTRADICTION', 'score': 0.8159048557281494}
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: {'label': 'CONTRADICTION', 'score': 0.7553998827934265}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: {'label': 'NEUTRAL', 'score': 0.7721019387245178}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.7254020571708679}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.6083983778953552}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.89566570520401}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.8339878916740417}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: {'label': 'NEUTRAL', 'score': 0.7127555012702942}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.7254020571708679}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: {'label': 'CONTRADICTION', 'score': 0.7167258262634277}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: {'label': 'CONTRADICTION', 'score': 0.8262656331062317}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi kötü bir insan.
+Result: {'label': 'CONTRADICTION', 'score': 0.8895009756088257}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: {'label': 'CONTRADICTION', 'score': 0.5186174511909485}
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: {'label': 'CONTRADICTION', 'score': 0.8955378532409668}
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: {'label': 'NEUTRAL', 'score': 0.5781448483467102}
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'NEUTRAL', 'score': 0.5470118522644043}
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.5039349794387817}
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.8684171438217163}

@@ -22,4 +22,608 @@ Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olmas�
 Sentence2: C kişisi bir banka müdürü.
 Result: [[0.5978833]]
 
-Total time: 6.0720438957214355 seconds
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.6514981]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.96457684]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.45657372]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.6598067]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.6122937]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.6477161]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.69424087]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.96457684]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.6298498]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.6271507]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.7262769]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.58296406]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.65068483]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.99999994]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.45191798]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.6755907]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.6408148]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.6952335]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.71095324]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.63664794]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6298498]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.8772618]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.70086277]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.64298654]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.73107517]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6298498]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.41067636]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.82696235]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.55549777]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.69133955]]
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.88166964]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.62644726]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6271507]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.8772618]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.712958]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.65556717]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.7286826]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6271507]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.46111745]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.8589808]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.58212674]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.7115259]]
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.8969961]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.6923945]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.7262769]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.70086277]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.712958]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.66675913]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.6972495]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.7262769]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.4729737]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.7632364]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.7580923]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.77220494]]
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.75708187]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.5978833]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.58296406]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.64298654]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.65556717]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.66675913]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.8756559]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.58296406]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.39623874]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.65978247]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.69735074]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.5348861]]
+
+Sentence1: C kişisi bir banka müdürü.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.63096166]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.6514981]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.65068483]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.73107517]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.7286826]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.6972495]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.8756559]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.65068483]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.3956802]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.6828362]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.64920413]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.61215514]]
+
+Sentence1: C kişisinin mesleği banka müdürlüğüdür.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.69613576]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.96457684]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.99999994]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.6298498]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.6271507]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.7262769]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.58296406]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.65068483]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.45191798]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.6755907]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.6408148]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.6952335]]
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.71095324]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.45657372]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.45191798]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.41067636]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.46111745]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.4729737]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.39623874]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.3956802]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.45191798]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.4896043]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.42751777]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.47992754]]
+
+Sentence1: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.48392016]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.6598067]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6755907]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.82696235]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.8589808]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.7632364]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.65978247]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.6828362]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6755907]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.4896043]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.62383443]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.79020524]]
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.9357248]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.6122937]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6408148]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.55549777]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.58212674]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.7580923]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.69735074]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.64920413]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6408148]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.42751777]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.62383443]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.61273706]]
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.60022867]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.6477161]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6952335]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.69133955]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.7115259]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.77220494]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.5348861]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.61215514]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.6952335]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.47992754]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.79020524]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.61273706]]
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: [[0.8275267]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Result: [[0.69424087]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.71095324]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: [[0.88166964]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: [[0.8969961]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: [[0.75708187]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi bir banka müdürü.
+Result: [[0.63096166]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin mesleği banka müdürlüğüdür.
+Result: [[0.69613576]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: [[0.71095324]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Leclerc, 2021 Formula 1 sezonunda 3. sırayı aldı.
+Result: [[0.48392016]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: [[0.9357248]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi kötü bir insan.
+Result: [[0.60022867]]
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: [[0.8275267]]
+
+Total time: 216.5630645751953 seconds
