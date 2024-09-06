@@ -1,0 +1,35 @@
+**Olay ve Hukuki Sorun:**
+
+Olay: C, bir marketten alışveriş yaptıktan sonra kasada ödeme yapmadan marketten çıkmıştır. Güvenlik kameraları C’nin kasada ödeme yapmadan marketten çıktığını kaydetmiştir. Market yetkilileri durumu fark ederek polisi aramıştır. C, marketin dışında yakalanmış ve kasada ödeme yapmayı unuttuğunu iddia etmiştir.
+
+Hukuki Sorun: C’nin eylemi, Türk Ceza Kanunu’nun 141. maddesine göre hırsızlık suçu teşkil edebilir mi? Bu olayda hırsızlık suçunun maddi ve manevi unsurları gerçekleşmiş midir?
+
+---
+
+**İrdeleme:**
+
+1. **Suçun Temel Unsurları:**
+   - **Fail:** C
+   - **Mağdur:** Market (Mülkiyet hakkı ihlal edilen taraf)
+   - **Konu:** Marketten alınan ürünler
+   - **Fiil:** Ürünlerin kasada ödeme yapılmaksızın dışarı çıkarılması
+   - **Netice:** Marketin malvarlığında azalma
+     - **Nedensellik Bağı:** C’nin fiili ile netice arasında nedensellik bağı mevcuttur.
+     - **Objektif İsnadiyet:** Fiil, neticeyi doğuracak şekilde gerçekleştirilmiştir.
+
+2. **Manevi Unsur:** C, bu eylemi kasten mi gerçekleştirmiştir? C’nin kasıtlı olup olmadığı, marketten çıkarken ödeme yapmadığını fark etmesiyle bağlantılıdır. C, ödeme yapmayı unuttuğunu iddia etmektedir, bu nedenle kast unsuru tartışmalı olabilir.
+
+3. **Hukuka Aykırılık Unsuru:** Hukuka aykırılık unsuru açısından, C’nin eylemi hırsızlık suçu açısından değerlendirildiğinde, hukuka aykırı bir durum mevcuttur. Ancak, manevi unsurdaki belirsizlik bu hususu etkileyebilir.
+
+4. **Suçun Nitelikli Unsurları:** Bu olayda nitelikli bir unsur yoktur.
+
+5. **Kusurluluk:** C’nin kusur durumu, ödeme yapmayı unuttuğunu iddia etmesi sebebiyle, kusurluluğu tartışmaya açabilir.
+
+6. **Yaptırımın Uygulanması İçin Gereken veya Yaptırım Uygulanmasını Engelleyen Özel Koşullar:** C’nin ödeme yapmayı unuttuğunu iddia etmesi, suçun manevi unsurunu etkileyebilir ve bu durum yaptırım uygulanmasını engelleyebilir.
+
+7. **Suçun Özel Görünüş Biçimleri:**
+   - **Teşebbüs:** Eylem tamamlanmıştır, teşebbüs söz konusu değildir.
+   - **İştirak:** Olayda iştirak eden başka bir kişi yoktur.
+   - **İçtima:** Tek bir suç tipi söz konusudur.
+
+---
