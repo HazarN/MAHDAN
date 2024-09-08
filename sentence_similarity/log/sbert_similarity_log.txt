@@ -1,0 +1,2821 @@
+Log file created. (log/sbert_similarity_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.9383]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.1996]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: tensor([[0.1646]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.4852]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: tensor([[0.2732]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: tensor([[0.2236]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.3011]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.5883]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.3268]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.3453]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.5021]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.4141]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.5817]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5933]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.6652]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.3626]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.2475]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.3037]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.5284]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5827]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.2728]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.4088]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5852]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.4998]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.4978]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.7135]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.6854]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.3923]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5959]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.6234]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.2895]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.3456]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5238]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.5068]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.5783]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7064]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6574]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.1768]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: tensor([[0.1650]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.4661]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: tensor([[0.2541]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: tensor([[0.2619]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.2510]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.6174]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.3141]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[1.]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.3684]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4590]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.3380]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.5357]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5885]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.6846]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.3956]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.2563]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.3030]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.4595]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5791]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.3069]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.4162]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.6065]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.5484]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.5455]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.6832]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.6852]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.4207]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5159]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.6158]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3311]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.3510]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5408]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.5387]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6445]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6640]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6270]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: tensor([[0.8917]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.4740]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: tensor([[0.8353]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: tensor([[0.4549]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.8510]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.4368]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.3977]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.6966]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.2465]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.1912]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.2507]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4535]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4307]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.6990]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.8987]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.5454]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6189]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4193]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.3925]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.6669]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.4746]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.4918]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.4638]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4330]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.4488]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5031]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5713]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.3980]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3136]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7282]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4890]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.4772]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.3446]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4385]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4256]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.4862]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: tensor([[0.8919]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: tensor([[0.4688]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.8158]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.4570]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.3458]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7136]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.2192]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.1528]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.2157]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4353]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4131]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7345]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.8054]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.5584]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.5994]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4251]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4173]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.6468]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.4855]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.5096]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.4652]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4037]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.4269]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5341]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5374]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.3962]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3494]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7044]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4967]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.4896]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.3599]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4081]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.3941]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: tensor([[0.6464]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: tensor([[0.6084]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.5444]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.6682]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.3916]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7226]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4473]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.3534]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.5225]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7164]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7106]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.6268]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.5267]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.6191]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6202]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.7948]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.6413]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.6726]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.7792]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.8047]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.7521]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.7298]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.7204]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.7016]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5951]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.7705]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.6072]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.6615]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.7393]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.8147]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7656]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7071]])
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6966]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: tensor([[0.5572]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.8240]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.5617]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4190]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7948]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.3280]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.2517]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.3153]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5642]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5338]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7618]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.7738]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.5584]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6216]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5348]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4486]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.6792]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5873]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.5870]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.4961]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.5454]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5537]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5759]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5715]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5021]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3971]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7058]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.6003]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.5703]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.4339]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.5640]])
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.5518]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: tensor([[0.5025]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.4470]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4251]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.5770]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.2812]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.2219]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.2431]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5064]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4905]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.4768]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.5690]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4472]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.4663]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5822]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4677]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.4909]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5184]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.5262]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.4713]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4224]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5061]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.4353]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.3567]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5524]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3887]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.4962]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4836]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.4984]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.4633]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4133]])
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4520]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: tensor([[0.5008]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4456]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7079]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.4046]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.3669]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.3961]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5581]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5215]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.6822]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.7622]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4554]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6670]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5340]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.3336]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.6195]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5188]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.4746]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.4606]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.5186]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5709]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.4317]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6227]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5302]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.2630]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.6414]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5185]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.4672]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.3896]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.5170]])
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.5641]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: tensor([[0.4578]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.7799]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.5842]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.4613]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.5793]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.9113]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.9051]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7661]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.4463]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4141]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.5968]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.6910]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4711]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.5434]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.9130]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.7017]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.5897]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.8502]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.7485]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.4929]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5801]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.6882]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4319]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5252]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.9012]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.6660]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6168]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.8447]])
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7053]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: tensor([[0.3102]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.5485]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.5771]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.4486]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5022]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4080]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.2796]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.3862]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4456]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.4923]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4873]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4519]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.2306]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.3957]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.3866]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.3656]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.2991]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.4529]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.3272]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.4461]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.4455]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4035]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.2268]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.3214]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.3484]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.3727]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.3366]])
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.3968]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi kötü bir insan.
+Result: tensor([[0.3568]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.2286]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.3623]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7763]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.7816]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.9581]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.6678]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4960]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.5725]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.6451]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4248]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.7383]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.8133]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.6827]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.5791]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.7652]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.6611]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5746]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5054]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.6386]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3630]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7640]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.8695]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.6711]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.5338]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7405]])
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6468]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: tensor([[0.8862]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.9047]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.6728]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5296]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.3436]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.2223]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.1535]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.3721]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4620]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.1985]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.2541]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.4574]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.3861]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.2860]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.3934]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5506]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.1534]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.3637]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.4278]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.1791]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.2148]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4093]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.3276]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.3286]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4339]])
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4975]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi iyi bir insan değil.
+Result: tensor([[0.7806]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5666]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.4140]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.1966]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.1655]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.1578]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.3720]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4136]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.1819]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.1402]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.3583]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.2799]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.1954]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.2874]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.4555]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.0898]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.3660]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.3883]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.1621]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.0931]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.2948]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.2243]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.2411]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.3425]])
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4467]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.6389]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.5573]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.3487]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.2300]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.1918]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.3887]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4691]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.2488]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.3432]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.4829]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.4550]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.3748]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4594]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5400]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.2247]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.4080]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.4546]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.2418]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.3003]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4334]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.4244]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.4331]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4735]])
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4967]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: tensor([[0.9461]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7215]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.4709]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4115]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6746]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.7825]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4968]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.5424]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.9131]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.7231]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.6611]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.8439]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.8413]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.4996]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6166]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.7850]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4307]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5236]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.8942]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7101]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6673]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.8430]])
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7662]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: tensor([[0.7437]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.4670]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4322]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6485]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.7832]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4996]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.5795]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.9406]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.7482]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.6765]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.9027]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.8575]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5468]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5950]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.8121]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4390]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5570]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.9346]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7458]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7182]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.8801]])
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7983]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: tensor([[0.6527]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.4524]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.5102]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5722]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.3666]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.7300]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.7732]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.6193]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.5173]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.7261]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.6052]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5304]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.4639]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5715]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.3207]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7557]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.8440]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.6036]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.4823]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6959]])
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.5868]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: tensor([[0.6022]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.6445]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.4971]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.4813]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.7133]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5299]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.5694]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.5683]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4508]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5113]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.6141]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6159]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.4764]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4061]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7464]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5145]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.5585]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.4625]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4610]])
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4555]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: tensor([[0.5618]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.5588]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.7185]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.5782]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5120]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.6893]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.6588]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4491]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.4590]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.8588]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5527]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5100]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.6843]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.6298]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4835]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.6911]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.5978]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4582]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4224]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: tensor([[0.6802]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.5026]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.5179]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.6658]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.6063]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.7126]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.6512]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.7405]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5985]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.9464]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.7176]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4151]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5347]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5955]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.6279]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6139]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6534]])
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6914]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: tensor([[0.5845]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.5618]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.7892]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.7373]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.7693]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.7467]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.8089]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.6481]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6222]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.9669]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.5320]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5535]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.7272]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7408]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7667]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7146]])
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7232]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: tensor([[0.4891]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.5972]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.7435]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.7147]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.4546]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.4951]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.6942]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.4871]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5335]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.9730]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.4893]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5279]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7471]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7512]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4631]])
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4185]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: tensor([[0.6494]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.6999]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.6495]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.6115]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.5497]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.6774]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5342]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.5561]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4647]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.9700]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.6481]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7078]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6179]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6032]])
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.5219]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: tensor([[0.8171]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.7266]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.8818]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.8114]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.6281]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6232]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.8029]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.5414]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.6261]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.9673]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.8091]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7558]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.8671]])
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7422]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: tensor([[0.8336]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.7169]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.7085]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.7829]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5835]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.7150]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.7246]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7100]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.7824]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.9689]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.8422]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7220]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6362]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: tensor([[0.6641]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.7413]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.7889]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.7045]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.7648]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.6776]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.6633]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.6488]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.8688]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.9226]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6377]])
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6124]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: tensor([[0.7832]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5647]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6528]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.7675]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4279]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5972]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.8894]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7416]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6926]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.9519]])
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7664]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: tensor([[0.5894]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.6921]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.8302]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4362]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5147]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.7600]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7012]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7510]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.8037]])
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.9250]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: tensor([[0.5930]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.6266]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.6691]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.7155]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5959]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.8029]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7397]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.5617]])
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.5127]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: tensor([[0.6606]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4445]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5342]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.5432]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.6102]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6143]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6584]])
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6565]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: tensor([[0.4757]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.5401]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.7441]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7328]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7763]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7269]])
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7611]])
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: tensor([[0.4517]])
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.4722]])
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7263]])
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.7426]])
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.4440]])
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.3711]])
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: tensor([[0.6451]])
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7244]])
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.5838]])
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.5781]])
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.4780]])
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: tensor([[0.7761]])
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.6742]])
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.8716]])
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.7170]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: tensor([[0.8754]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.7362]])
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6233]])
+
+Sentence1: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: tensor([[0.6767]])
+
+Sentence1: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.6354]])
+
+Sentence1: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: tensor([[0.8142]])
+
+Total time: 100.7492344379425 seconds
