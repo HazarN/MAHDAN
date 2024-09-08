@@ -2818,4 +2818,4 @@ Sentence1: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düş�
 Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
 Result: tensor([[0.5583]])
 
-Total time: 86.46588039398193 seconds
+Total time: 79.69279646873474 seconds
