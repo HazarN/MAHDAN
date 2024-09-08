@@ -293,3 +293,54 @@ class SentenceComparator_Word2Vec(SentenceComparator):
         avg_score = sum([x["score"] for x in key_features]) / len(key_features)
 
         return avg_score#,key_features
+
+
+import jpype
+import os
+import atexit
+
+#ZEMBEREK https://github.com/ahmetaa/zemberek-nlp : Bakılacak
+class SentenceComparator_jpype(SentenceComparator):
+    """
+    SentenceComparator_jpype is a class that uses Zemberek to calculate the similarity between two sentences.
+
+    Args:
+        model_name (str): The name of the model.
+    """
+    
+    def __init__(self):
+        super().__init__("Zemberek")
+
+        # JVM'i başlat
+        if not jpype.isJVMStarted():
+            jpype.startJVM("C:/Program Files/Java/jdk-22/bin/server/jvm.dll", 
+                           "-Djava.class.path=utils/zemberek-full.jar")
+        
+        # Zemberek sınıfını başlat
+        TurkishMorphology = jpype.JClass('zemberek.morphology.TurkishMorphology')
+        self.morphology = TurkishMorphology.createWithDefaults()
+
+        # JVM'i kapatmayı atexit ile garanti altına al
+        atexit.register(self.shutdown_jvm)
+    
+    def calculate_similarity(self, sentence_1, sentence_2):
+        # Cümlelerin analizini yap
+        analysis1 = self.morphology.analyzeSentence(sentence_1)
+        analysis2 = self.morphology.analyzeSentence(sentence_2)
+        return analysis1, analysis2
+    
+    def shutdown_jvm(self):
+        # JVM'i kapat
+        if jpype.isJVMStarted():
+            jpype.shutdownJVM()
+
+# Örnek kullanım
+
+#print(jpype.isJVMStarted())
+#jvm = SentenceComparator_jpype()
+#test_sentence = "Bu güzel bir gün."
+#print(jvm.calculate_similarity("keşke hemen şurada ölsen ve gebersen.", test_sentence))
+
+if __name__ == "__main__":
+    # Create a SentenceComparator object
+    pass
