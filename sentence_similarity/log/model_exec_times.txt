@@ -50,3 +50,4 @@ sbert_similarity Avg comparison time: 0.14310970800844106 seconds, Total time: 1
 word2vec_sim Avg comparison time: 0.06559800458225337 seconds, Total time: 46.18099522590637 seconds
 sentiment_comparator Avg comparison time: 0.15350452370264314 seconds, Total time: 108.06718468666077 seconds
 ollama_model_llama3.1 Avg comparison time: 4.873817505145615 seconds, Total time: 3431.167523622513 seconds
+sentiment_analysis Avg comparison time: 0.18255323205481877 seconds, Total time: 128.5174753665924 seconds
