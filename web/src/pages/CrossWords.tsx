@@ -1,7 +1,9 @@
+import Layout from '../components/Layout';
+
 export default function CrossWords() {
   return (
-    <div>
+    <Layout>
       <h1>CrossWords</h1>
-    </div>
+    </Layout>
   );
 }
