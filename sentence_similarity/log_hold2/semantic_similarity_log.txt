@@ -1,0 +1,45 @@
+Log file created. (log/semantic_similarity_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: tensor([[0.9611]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.7214]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: tensor([[0.7042]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.6675]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: tensor([[0.7229]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: tensor([[0.7138]])
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.6695]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: tensor([[0.9457]])
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.7366]])
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: tensor([[0.7833]])
+
+Total time: 0.8569400310516357 seconds

@@ -18,6 +18,138 @@ Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olmas�
 Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
 Result: 0.3914416594938798
 
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: 0.396545870737596
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: 0.30234812741929834
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.33078692717985675
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.4676803811029954
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.5136082362044941
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.345494189045646
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.37138761444525287
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.4117695851759477
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.4067333692854101
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.47453919324007904
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.5383678485046733
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.3089580833911896
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.3272011252966794
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.4078162935647098
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.5489324873143976
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.4290421198714863
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.4382381412115964
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.35186994482170453
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.37942016937515954
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4005123403939334
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.5159107040275227
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5863861685449426
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.440948638049039
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.3940203433687037
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.5201132595539093
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.4370647750117562
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4731493050401861
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.35484966093843634
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.3399497080932964
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4690505401654677
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4854948845776645
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.5258322547782551
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.3952042135325345
+
 Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
 Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
 Result: 0.4133522719144821
@@ -30,6 +162,142 @@ Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olmas�
 Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
 Result: 0.4044958621263504
 
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: 0.4166991263628006
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: 0.3073734328150749
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.33865611255168915
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.46895175874233247
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.5375642150640487
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: 0.9999999880790711
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.35089645981788636
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.3792353242635727
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.43140205442905427
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.4074709266424179
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.4927020609378815
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.5515799105167389
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.3203525602817535
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.33623350858688356
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.3945684641599655
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.5038257420063019
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.4394744634628296
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.4402476340532303
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.36553631722927094
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.37099975645542144
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.42246605157852174
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.5004157513380051
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5960329800844193
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.4034223914146423
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.40545070767402647
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4888362675905228
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.4494599044322968
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.47864991426467896
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.3697024941444397
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.35315083265304564
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.46369564831256865
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.466958349943161
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.5354298442602158
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.39900313317775726
+
 Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
 Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
 Result: 0.8181640684604645
@@ -38,8 +306,2516 @@ Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmad
 Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
 Result: 0.48566202372312545
 
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: 0.7144014656543731
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: 0.4513538099825382
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.7345994025468826
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.6727258771657944
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.5626596659421921
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.7335085451602936
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.39244839958846567
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.334284619987011
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.41050597131252287
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6448407799005509
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6448407799005509
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.6997548431158066
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.8086341619491577
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.47151144295930864
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.697381255030632
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5630030736327172
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.513590732216835
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.4279488980770111
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.6126932814717293
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4476848006248474
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4491930685937405
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.52643630951643
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6195650100708008
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4867760643362999
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.491435618698597
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5634654559195041
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.413191120326519
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.5293800137937069
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6162612825632096
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4679649606347084
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.3516539685428143
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.33380414098501204
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.661083522439003
+
 Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
 Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
 Result: 0.5008682927915028
 
-Total time: 0.3499267101287842 seconds
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: 0.744926495211465
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: 0.48042347707918714
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.8764436330114093
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.6968756232942853
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.5944320900099618
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.8300697207450867
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.44255256014210836
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.40042696254593985
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.455662801861763
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.7221904737608773
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.7221904737608773
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.8266656909670148
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.9731066397258213
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.5126864931413105
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.8048071052346911
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.6168474704027176
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5747269604887281
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.3813821162496294
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.7022920314754758
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.48717689514160156
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4737101974231856
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5638472203697477
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6936410410063607
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.5341608417885644
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.5105990533317838
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.6175080165266991
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.42245395694460186
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.527325054364545
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.7073891758918762
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5161485522985458
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.33436862592186245
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3766503632068634
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.7298817932605743
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C markete girdi ve sonra ödeme yapmadan çıktı.
+Result: 0.6602976073821386
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: 0.36166346197326976
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.6173211385806402
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.6178539246320724
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.4888685072461764
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.6708243588606516
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.38921638454000157
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.42808207869529724
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.4362876812616984
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6166248172521591
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6373274475336075
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.6173211385806402
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.6209283222754797
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.4928165127833684
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6209283222754797
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.6709537456432978
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5868503451347351
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.45332150782148045
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.613164226214091
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4862711727619171
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.478418489297231
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.678819477558136
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6231289307276408
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4823028991619746
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.522680660088857
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.658600260814031
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.46132737894852954
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.46930310130119324
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.613164226214091
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5036224077145258
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4589266777038574
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.36152714987595874
+
+Sentence1: C kasaya ödeme yapması gerekirken yapmamıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6231289307276408
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Result: 0.43726609367877245
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.6305634565651417
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.5630898326635361
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.4977741539478302
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.7071113623678684
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.36016847658902407
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.3047638572752476
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.3612481402233243
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.541500385850668
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.5351343080401421
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.5947642307728529
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.6668612621724606
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.3861782178282738
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6566672623157501
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5396273210644722
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.46280066296458244
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.41077324841171503
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.48707134649157524
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.3654758371412754
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.3902987726032734
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.4974524490535259
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5868003480136395
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4222223311662674
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4928569383919239
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5234282482415438
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.3992528188973665
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.47979262098670006
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5107401907444
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.37848926335573196
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.34441839065402746
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.35905978828668594
+
+Sentence1: C markete girdi ve sonra ödeme yapmadan çıktı.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6048793829977512
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Result: 0.5153665145238241
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.41947221010923386
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.3570274164279302
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.48741944630940753
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.2679571236173312
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.259664128224055
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.29774963359038037
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.4242929418881734
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.4207349121570587
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.45729224880536395
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.7329236268997192
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.3807293524344762
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.446556881070137
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.3490658874313037
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.397112637758255
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.4405658543109894
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.3834602211912473
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.34491661190986633
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.3607533909380436
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.4092731798688571
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.40224361668030423
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4071361670891444
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.3972240338722865
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.4203438498079777
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.38623154411713284
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.43043144047260284
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.38940688967704773
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.36683224389950436
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.34802741184830666
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3812401220202446
+
+Sentence1: Şahıs aldığı ürünleri parasını ödemeden çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.4151707465449969
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Result: 0.7962809375354222
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.5830404843602862
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.8458930424281529
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.4662007540464401
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.47636478926454273
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.48604624824864523
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.8126825945717948
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.8126825945717948
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.9133448089872088
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.843379523072924
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.4709753713437489
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6728888962950025
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.575136348605156
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.6058261011328016
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.41599628755024504
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.7927841522863933
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4454657733440399
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.43423957590545925
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.6626604731593814
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6273509093693325
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4924497199910028
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4152809147323881
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5757968947291374
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.44990766048431396
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.48923771189791815
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.7978812967027936
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4744374305009842
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.3799228636281831
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.40666098254067556
+
+Sentence1: C kişisi ödeme yapmayı unutarak marketten çıkmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6592070715767997
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Result: 0.6547881695959303
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.6538543502489725
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.48382916880978477
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.49485382106569076
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.49109771351019543
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.717127306593789
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.7470415102110969
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.721897628572252
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.6189360684818692
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.4013575352728367
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.5807376239034865
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5448382248481115
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5535363819864061
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.370456016725964
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.704958415693707
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.40701865984333885
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.44854232172171277
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5951797763506571
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5961485670672523
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.42069147858354783
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4218646569384469
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5153435083727042
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.45156973434819114
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.4124378255671925
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6932137310504913
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4367782481842571
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.42430021944973206
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3867310682932536
+
+Sentence1: C kişisi kesin unutkan birisidir ve ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6005939212110307
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Result: 0.5392648379007975
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.539430400977532
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.4678283582131068
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.5477389978865782
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6179406344890594
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.623113232354323
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.4922449290752411
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.48488545666138333
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.39382461830973625
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.5701836968461672
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5394164634247621
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5032885695497195
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.4050101563334465
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5171240891019503
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4219089274605115
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4624527816971143
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.46978853394587833
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5300171834727129
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.44069229687253636
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.44916609302163124
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5295702901979288
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4436786621809006
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.4373576461027066
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5664488449692726
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4751828188697497
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4150783146421115
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3881436536709468
+
+Sentence1: C kişisi hırsızdır ve hırsızlık suçu işlediği için bu durudman şüphe bile edilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.5584450500706831
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi kötü bir insan.
+Result: 0.41990807354450227
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.41947700679302213
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.4452934890985489
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6398150891065597
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6315742641687393
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.7412532702088356
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.6780241936445236
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.43553687632083893
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6113770067691803
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5550054132938385
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5199038326740265
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.38019643872976305
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.6110791370272637
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4329098090529442
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.44078831374645233
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5399701535701752
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6046248108148575
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4366809070110321
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4343170300126076
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5337778463959694
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4289784401655197
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.4417687185108662
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6124096482992172
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4608489438891411
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.41235298812389376
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.43720349073410036
+
+Sentence1: C kişisi ödeme yapmadı sonra da marketten çıkarken ödemeyi unuttu.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.5834517449140548
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Result: 0.649530416727066
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.9536804556846619
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 1.0
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.7174043655395508
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.5995362222194671
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.5823263466358185
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.2852302581071854
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.7254244983196259
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.4702893108129501
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5625664830207825
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.24409748911857604
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.6047502756118774
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.26608273983001707
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4661557853221893
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.45221606492996214
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.7497006058692932
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.2875183194875717
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.5167104989290238
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.48120400309562683
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4488713264465332
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.25078040808439256
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5995362222194671
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.3595713973045349
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.33259945511817934
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.2761251211166382
+
+Sentence1: C kişisi kötü bir insan.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.7497006058692932
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi iyi bir insan değil.
+Result: 0.5956690779754094
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6408325774329049
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.5777672188622611
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.5160478821822575
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.4473907692091806
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.34172852656670977
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.5531739933150155
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5088450525488172
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5330209646906171
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.3477575470294271
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5187405007226127
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.3490744637591498
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.33006093331745695
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5353674973760333
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.4773348229272025
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.329256357891219
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.34896236658096313
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.4549863168171474
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.3564866142613547
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.36189921838896616
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5166733094624111
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4303487645728247
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.30079313261168344
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.43803869826453073
+
+Sentence1: Ben C kişisinin kötü birisi olduğunu biliyorum.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.4773348229272025
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.8865515689055125
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.6553613493839899
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.5581186612447103
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.5437926749388377
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.3129747932155927
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6830006887515386
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.4671906704703967
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5441320886214575
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.25285660723845166
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5864397039016088
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.29701852798461914
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.45224980513254803
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.4575917571783066
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6947091966867447
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.31488151103258133
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.5090723559260368
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.47628624737262726
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4588034351666768
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.25842570637663204
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5590518116950989
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.368073711792628
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.3348434120416641
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.2927977343400319
+
+Sentence1: C kişisi iyi bir insan değil.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6947091966867447
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Result: 0.871547438881614
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.5699340145696293
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.5325313332405958
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.4070689353075894
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6247259080410004
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.48515054989944806
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5520359169353138
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.4784625362266194
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.6578507883982225
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.40590841797265137
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.49898522279479285
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5424079407345165
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6054570485245098
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.49748422747308557
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4985109269618988
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.4920269521799954
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5010007863694971
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.47606924921274185
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.7387901436198842
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4559207125143571
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.40934495763345197
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3893039592287757
+
+Sentence1: Kötü bir insan olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6941063566641374
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Result: 0.6300107058551576
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.5938573595550325
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.42084726360109115
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.608490033282174
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5120158907439973
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5941596660349104
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.5185918377505409
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.7443303929434882
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.43504347569412655
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4601130386193593
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.6092779901292589
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.6270311772823334
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.5313548429144753
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4542272786299388
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5102965864870284
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.48421554764111835
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.5156667091780238
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.8350235720475515
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.47994760009977555
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4201763735877143
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.40129267341560787
+
+Sentence1: Kusurlu olan C kişisi, ödeme yapmayı unuttuğunu iddia etmektedir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.7353803316752116
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Result: 0.8031399931226458
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.4592983254364559
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.681844059910093
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5871876393045697
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5679973065853119
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.3911178984812328
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.7640499281031745
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4554427628006254
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.44141646793910433
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.6438189787524087
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.65811174256461
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4609326549938747
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.42156143699373516
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5828691188778196
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4180686090673719
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.47215089734111515
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.7659506584916796
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.48349093752247946
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.380377254315785
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.38610673376492094
+
+Sentence1: C kişisi marketten çıkarken ödeme yapmayı unutmuştur.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6335799608911786
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Result: 0.45953503251075745
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6541025161743164
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5373786613345146
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.49389790892601015
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.3922641932964325
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5988705694675446
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4461556375026703
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4250795513391495
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5052498757839203
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5883339360356331
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.4656748116016388
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4629183068871498
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5803340882062912
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.3883082643151283
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.4977512590587139
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5919250130653382
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.47057571113109586
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.3258367504924536
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3343919202685356
+
+Sentence1: C kişisi marketten satın aldığı ürünleri kasada ödeme yapmadan çıkarmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6039866492152214
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Result: 0.6382247606913248
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.6667406608661016
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5135328496495882
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.49942876150210697
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5713813627759615
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.6988765224814415
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.6647228250900904
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5368759259581566
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.501120314002037
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.7754057546456655
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.5338631470998129
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.6731681525707245
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5154768973588943
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.6143406058351198
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5663613304495811
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.7021506254871687
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.5361304606000582
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.4721863965193431
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kameralarıyla doğrulanmıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.47156817217667896
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Result: 0.5694662088697607
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5915247581221841
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.3769913999871774
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5501990643414584
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4589936706152829
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.6741608760573647
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5373521745204926
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.7479406270113859
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.46731521595608105
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.7383752221410925
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.574169630354101
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5173724618825045
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.44786211577328766
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5099602097814734
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5168568600307811
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.5321607576175169
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.38424558666619385
+
+Sentence1: C kişisinin kasada ödeme yapmadan çıkması bilinçli bir eylem olarak değerlendirilebilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6900990090586923
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Result: 0.5543748480933053
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.443431736103126
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.6016858688422612
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.6028314828872681
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.579256364277431
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.6537448423249381
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5314431403364454
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.6146495640277863
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4913105922085898
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.8212453382355827
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.47482026900563923
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.560271829366684
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5962009174483163
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.6203722613198417
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4594613952296121
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.41012024879455566
+
+Sentence1: C kasada ödeme yapmadığı için sorumlu tutulmalıdır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.5401066413947514
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Result: 0.42767234798520803
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5824911035597324
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.45284443348646164
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.45606447011232376
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5408846847712994
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5881837271153927
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.44034162536263466
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4775209575891495
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5306466594338417
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.7780625745654106
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.4302000477910042
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5668150968849659
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.4977712258696556
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4247399587184191
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3712267857044935
+
+Sentence1: C kişisinin ödeme yapmadığına dair hiçbir kanıt bulunmamaktadır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.5895455740392208
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Result: 0.5434538672367731
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.4970335712035497
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.4862535049517949
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5361109226942062
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5204749157031378
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.6846726735432943
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4826011856396993
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5202251449227333
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.49687910328308743
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.9885808527469635
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6801802317301432
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.528031607468923
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4833935499191284
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3287308985988299
+
+Sentence1: Market çalışanları, C'nin ödeme yapmadığını fark etmiştir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6621542672316233
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Result: 0.49950819214185077
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.47278039157390594
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.678337832291921
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.7157896161079407
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.48498134066661197
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.4719521924853325
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.6095737020174662
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.48111491401990253
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.48000840718547505
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.9336642026901245
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5350924432277679
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4217178225517273
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3914813349644343
+
+Sentence1: C kişisi ödeme yapmayı unuttuğunu savunmaktadır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.7001974980036417
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Result: 0.6925792574882508
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5946754395961762
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.4422455608844757
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.7188202619552613
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.5172051578760147
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.7233119368553161
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5447618365287781
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.6497626900672913
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6355351328849792
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.9032694935798645
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.542719304561615
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.5207152962684631
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası asılsızdır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.4543744623661041
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Result: 0.5118877626955509
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.667495384812355
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.5397112891077995
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.7957154586911201
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5943299010396004
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5958076901733875
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.5177221372723579
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.4559122622013092
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.6168095879256725
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.7858847714960575
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.4452173039317131
+
+Sentence1: C'nin kasada ödeme yapmaması kasıtlı bir davranış olarak değerlendirilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6436880081892014
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Result: 0.5523974001407623
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.44992320239543915
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.49655820056796074
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.5867279544472694
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4669926203787327
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.44690742157399654
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.5859857518225908
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.47560517862439156
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4491688460111618
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.5599014889448881
+
+Sentence1: C, dikkat eksikliği nedeniyle ödeme yapmayı unutmuş olabilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.5660931132733822
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Result: 0.3913495788971583
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.6806129134363599
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.49975976679060197
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5003975331783295
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.40239425748586655
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6129391027821435
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.43594125244352555
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4904286480612225
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.34510566459761727
+
+Sentence1: C kişisi ödeme yapmadan çıkmayı bir hata olarak tanımlamıştır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.8974072668287489
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Result: 0.44210873757089886
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.6019605313028608
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.4698155117886407
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.6931365643228803
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6538742482662201
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.6094346961804799
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.4430674378361021
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3903509271996362
+
+Sentence1: C'nin kasada ödeme yapmadığı, güvenlik kayıtlarıyla teyit edilmiştir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.578007133943694
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Result: 0.4750473565525479
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.531657079855601
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.39877647906541824
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.3983207129769855
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5059823724958632
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.6233516037464142
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3930929336282942
+
+Sentence1: C'nin kasadan ödeme yapmadan ayrılması bilinçli bir davranış olarak nitelendirilebilir.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6681753098964691
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Result: 0.5027253798076085
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.5657008418015071
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6274145841598511
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.6351630347115653
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.46223039286477224
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.41170118749141693
+
+Sentence1: C, kasada ödeme yapmadığı için sorumluluk almalıdır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.5725198515823909
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Result: 0.4871642291545868
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.4930027254990169
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5468394884041378
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.5005307495594025
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.4225973870073046
+
+Sentence1: C'nin ödeme yapmadığına dair herhangi bir kanıt yoktur.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6049053243228367
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Result: 0.6636887959071568
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.5951264074870518
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.45992421891008106
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3570555533681597
+
+Sentence1: Market çalışanları, C’nin kasada ödeme yapmadığını fark etti.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.599407719714301
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Result: 0.49274992091315134
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.3811831240143095
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.3789026013442448
+
+Sentence1: C kişisi, ödeme yapmayı unuttuğunu iddia ediyor.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.7614623052733285
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Sentence2: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Result: 0.5618625034888586
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.5156941115856171
+
+Sentence1: C'nin kasada ödeme yapmadığı iddiası gerçeği yansıtmamaktadır.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.49669233957926434
+
+Sentence1: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Sentence2: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Result: 0.45783600211143494
+
+Sentence1: C'nin ödeme yapmaması kasıtlı olarak değerlendirilemez.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.6581512868404389
+
+Sentence1: C'nin dikkatsizliği yüzünden ödemeyi unutmuş olabileceği düşünülüyor.
+Sentence2: C kişisi, ödeme yapmadan ayrılmayı bir hata olarak kabul etmiştir.
+Result: 0.40817990899086
+
+Total time: 46.18099522590637 seconds

@@ -1,0 +1,4 @@
+Log file created. (log/model_exec_times.txt)
+Additional Info: This file contains the execution times of the models. Number of test_sentences: 5
+
+word2vec_sim Avg comparison time: 0.07529623508453369 seconds, Total time: 0.7529623508453369 seconds

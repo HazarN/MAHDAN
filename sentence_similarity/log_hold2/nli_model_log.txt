@@ -1,0 +1,45 @@
+Log file created. (log/nli_model_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Result: {'label': 'ENTAILMENT', 'score': 0.7691475749015808}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.5896795392036438}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.7479584813117981}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.7104936838150024}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.5884826183319092}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.7638195157051086}
+
+Sentence1: C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.7055838108062744}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Result: {'label': 'ENTAILMENT', 'score': 0.6537001132965088}
+
+Sentence1: C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: {'label': 'CONTRADICTION', 'score': 0.47625213861465454}
+
+Sentence1: C kişisi kasada ödeme yapmadan marketten çıkmıştır.
+Sentence2: C kasaya ödeme yapması gerekirken yapmamıştır.
+Result: {'label': 'ENTAILMENT', 'score': 0.4576236605644226}
+
+Total time: 6.8363072872161865 seconds
