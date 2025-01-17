@@ -26,19 +26,19 @@ const hangmanSlice = createSlice({
     },
     guessLetter: (state, action: PayloadAction<string>) => {
       const letter = action.payload.toLowerCase();
-      
+
       if (!state.guessedLetters.includes(letter)) {
         state.guessedLetters.push(letter);
-        
+
         if (!state.word.includes(letter)) {
           state.remainingGuesses -= 1;
         }
-        
+
         // Kazanma kontrolü
         const isWon = state.word
           .split('')
-          .every(letter => state.guessedLetters.includes(letter));
-        
+          .every((letter) => state.guessedLetters.includes(letter));
+
         if (isWon) {
           state.gameStatus = 'won';
         } else if (state.remainingGuesses === 0) {
@@ -50,4 +50,4 @@ const hangmanSlice = createSlice({
 });
 
 export const { startGame, guessLetter } = hangmanSlice.actions;
-export default hangmanSlice.reducer; 
+export default hangmanSlice.reducer;
