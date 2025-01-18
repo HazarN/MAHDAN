@@ -1,5 +1,6 @@
 import ollama
 
+
 class SentenceComparator:
     def __init__(self,model_name):
         self.model_name = model_name
@@ -74,7 +75,9 @@ class SentenceComparator_Ollama( SentenceComparator ):
 # Semantic Similarity
 from sentence_transformers import SentenceTransformer, util
 
-#model_name = 'paraphrase-MiniLM-L6-v2'
+
+#model_name = 'paraphrase-MiniLM-L6-v2
+# It means semantic space which is about its meaning, it will cluster the sentence to one class like Neurtural, Positive etc.
 # Class of Semantic Similarity
 class SentenceComparator_semantic(SentenceComparator):
     """
@@ -87,8 +90,6 @@ class SentenceComparator_semantic(SentenceComparator):
     def __init__(self, model_name='paraphrase-MiniLM-L6-v2'):
         super().__init__(model_name)
 
-        # Load the model
-        self.model_name = model_name
         self.model = self.generate_model()
 
     def generate_model(self):
@@ -103,8 +104,9 @@ class SentenceComparator_semantic(SentenceComparator):
 
 
 import torch
-from transformers import BertTokenizer, BertModel
 from sklearn.metrics.pairwise import cosine_similarity
+from transformers import BertModel, BertTokenizer
+
 
 #model_name = 'bert-base-multilingual-cased'
 # Calculate cosine similarity between two sentences with BERT
@@ -120,8 +122,6 @@ class SentenceComparator_bert_cosine(SentenceComparator):
     def __init__(self, model_name='bert-base-multilingual-cased'):
         super().__init__(model_name)
 
-        # Load the model
-        self.model_name = model_name
         self.model = self.generate_model()
 
     def generate_model(self):
@@ -144,8 +144,10 @@ class SentenceComparator_bert_cosine(SentenceComparator):
         return cosine_similarity(embeddings1, embeddings2)
     
 
-from sentence_transformers import SentenceTransformer, util
 import torch
+from sentence_transformers import SentenceTransformer, util
+
+
 # Load the pre-trained SBERT model
 #model_name = 'paraphrase-multilingual-mpnet-base-v2'
 # Class of SBERT Similarity
@@ -160,8 +162,6 @@ class SentenceComparator_SBERT(SentenceComparator):
     def __init__(self, model_name='paraphrase-multilingual-mpnet-base-v2'):
         super().__init__(model_name)
 
-        # Load the model
-        self.model_name = model_name
         self.model = self.generate_model()
         
     def generate_model(self):
@@ -176,6 +176,8 @@ class SentenceComparator_SBERT(SentenceComparator):
     
 
 from transformers import pipeline
+
+
 # NLI pipeline oluşturma (Türkçe destekleyen model kullanılabilir)
 #nli_model = pipeline("text-classification", model="microsoft/deberta-large-mnli")
 class SentenceComparator_NLI(SentenceComparator):
@@ -189,7 +191,7 @@ class SentenceComparator_NLI(SentenceComparator):
 
     def __init__(self, model_name="microsoft/deberta-large-mnli"):
         super().__init__(model_name)
-        self.model_name = model_name
+        
         self.model = self.generate_model()
 
     def generate_model(self):
@@ -212,9 +214,7 @@ class SentenceComparator_sentiment_analysis(SentenceComparator):
     def __init__(self,model_name="saribasmetehan/bert-base-turkish-sentiment-analysis"):
         super().__init__(model_name)
         
-        # Load the model
-        model_id = model_name
-        self.classifer = pipeline("text-classification",model = model_id)
+        self.classifer = pipeline("text-classification",model = self.model_name)
     
     def clearify_sentence(self, sentence):
         return sentence.lower().replace(".", "").replace(",", "").replace("?", "").replace("!", "").replace("(", "").replace(")", "")
@@ -232,6 +232,8 @@ class SentenceComparator_sentiment_analysis(SentenceComparator):
     
 # Word2Vec Similarity
 from gensim.models import Word2Vec
+
+
 class SentenceComparator_Word2Vec(SentenceComparator):
     """
     SentenceComparator_Word2Vec is a class that uses Word2Vec to calculate the similarity between two sentences.
@@ -295,9 +297,11 @@ class SentenceComparator_Word2Vec(SentenceComparator):
         return avg_score#,key_features
 
 
-import jpype
-import os
 import atexit
+import os
+
+import jpype
+
 
 #ZEMBEREK https://github.com/ahmetaa/zemberek-nlp : Bakılacak
 class SentenceComparator_jpype(SentenceComparator):
@@ -313,9 +317,10 @@ class SentenceComparator_jpype(SentenceComparator):
 
         # JVM'i başlat
         if not jpype.isJVMStarted():
+            # Paths are constant that causes some code redundancy problems !!
             jpype.startJVM("C:/Program Files/Java/jdk-22/bin/server/jvm.dll", 
                            "-Djava.class.path=utils/zemberek-full.jar")
-        
+
         # Zemberek sınıfını başlat
         TurkishMorphology = jpype.JClass('zemberek.morphology.TurkishMorphology')
         self.morphology = TurkishMorphology.createWithDefaults()
