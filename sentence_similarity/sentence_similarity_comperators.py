@@ -269,7 +269,7 @@ class SentenceComparator_Word2Vec(SentenceComparator):
                     # Calculate the similarity between the words
                     similarity_dict[word_1].update({word_2:self.model.wv.similarity(word_1, word_2)})
                 except:
-                    pass
+                    print("Extract_Key_Features function exception in word2Vec.")
         return similarity_dict
     
     def calculate_similarity(self, sentence_1, sentence_2):
@@ -333,7 +333,10 @@ class SentenceComparator_jpype(SentenceComparator):
         analysis1 = self.morphology.analyzeSentence(sentence_1)
         analysis2 = self.morphology.analyzeSentence(sentence_2)
         return analysis1, analysis2
-    
+
+    def analyze_results(self, analysis1, analysis2 ):
+        None
+
     def shutdown_jvm(self):
         # JVM'i kapat
         if jpype.isJVMStarted():
@@ -344,7 +347,7 @@ class SentenceComparator_jpype(SentenceComparator):
 #print(jpype.isJVMStarted())
 #jvm = SentenceComparator_jpype()
 #test_sentence = "Bu güzel bir gün."
-#print(jvm.calculate_similarity("keşke hemen şurada ölsen ve gebersen.", test_sentence))
+#print(jvm.calculate_similarity("keşke hemen şurada okulu bıraksan.", test_sentence))
 
 if __name__ == "__main__":
     # Create a SentenceComparator object
