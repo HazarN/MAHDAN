@@ -1,0 +1,43 @@
+Log file created. (log/Word2Vec_log.txt)
+Additional Info: Score is calculated in the range of 0-1. Higher score indicates higher similarity.
+
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendirilebilir.
+Sentence2: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendrilemez.
+Result: 0.9999999880790711
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendirilebilir.
+Sentence2: C kiþisi marketten alýþveriþ yapmýþtýr ve kasada ödeme yapmadan çýkmýþtýr.
+Result: 0.2593727022409439
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendirilebilir.
+Sentence2: C kiþisi kasada ödeme yapmadan marketten çýkmýþtýr.
+Result: 0.16699126586318017
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendirilebilir.
+Sentence2: C kasaya ödeme yapmasý gerekirken yapmamýþtýr.
+Result: 0.2839908808469772
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendrilemez.
+Sentence2: C kiþisi marketten alýþveriþ yapmýþtýr ve kasada ödeme yapmadan çýkmýþtýr.
+Result: 0.2593727022409439
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendrilemez.
+Sentence2: C kiþisi kasada ödeme yapmadan marketten çýkmýþtýr.
+Result: 0.16699126586318017
+
+Sentence1: C'nin dikkat ve özen yükümlülüðüne aykýrý davranmýþ olmasý nedeniyle kusurlu olduðu deðerlendrilemez.
+Sentence2: C kasaya ödeme yapmasý gerekirken yapmamýþtýr.
+Result: 0.2839908808469772
+
+Sentence1: C kiþisi marketten alýþveriþ yapmýþtýr ve kasada ödeme yapmadan çýkmýþtýr.
+Sentence2: C kiþisi kasada ödeme yapmadan marketten çýkmýþtýr.
+Result: 0.7705045077535841
+
+Sentence1: C kiþisi marketten alýþveriþ yapmýþtýr ve kasada ödeme yapmadan çýkmýþtýr.
+Sentence2: C kasaya ödeme yapmasý gerekirken yapmamýþtýr.
+Result: 0.3734702923231655
+
+Sentence1: C kiþisi kasada ödeme yapmadan marketten çýkmýþtýr.
+Sentence2: C kasaya ödeme yapmasý gerekirken yapmamýþtýr.
+Result: 0.3814066934088866

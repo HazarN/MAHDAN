@@ -231,32 +231,31 @@ class SentenceComparator_sentiment_analysis(SentenceComparator):
         return (pred1[0]["label"], pred2[0]["label"])
     
 # Word2Vec Similarity
-from gensim.models import Word2Vec
-
 
 class SentenceComparator_Word2Vec(SentenceComparator):
     """
     SentenceComparator_Word2Vec is a class that uses Word2Vec to calculate the similarity between two sentences.
 
     Args:
-        model_name (str): The name of the model.
+        model_path (str): The path to the Word2Vec model file.
+        binary (bool): Whether the model file is in binary format.
     """
-    def __init__(self, model_name="utils/word2vec/w2v_.model"):
-        super().__init__(model_name)
+    def __init__(self, model_path="sentence_similarity/utils/trmodel", binary=True):
+        super().__init__(model_path)
+        self.model = self.generate_model(model_path, binary)
 
-        self.model = self.generate_model(model_name)
-
-    def generate_model(self, model_name):
-        return Word2Vec.load(model_name)
+    def generate_model(self, model_path, binary=True):
+        from gensim.models import KeyedVectors
+        return KeyedVectors.load_word2vec_format(model_path, binary=binary)
     
     def clean_sentence(self, sentence):
         return sentence.lower().replace(".", "").replace(",", "").replace("?", "").replace("!", "").replace("(", "").replace(")", "")
     
     def extract_key_features(self, words_1, words_2):
-        
         # Nested iteration to compare each word in the sentences
-        #Dict: {word_1:{word_comp1:score, word_comp2:score, ...}, word_2:{word_comp1:score, word_comp2:score, ...}}
-        searched_pairs = [];similarity_dict = {}
+        # Dict: {word_1:{word_comp1:score, word_comp2:score, ...}, word_2:{word_comp1:score, word_comp2:score, ...}}
+        searched_pairs = []
+        similarity_dict = {}
 
         for word_1 in words_1:
             if word_1 not in similarity_dict:
@@ -267,20 +266,25 @@ class SentenceComparator_Word2Vec(SentenceComparator):
                 try:
                     searched_pairs.append((word_1, word_2))
                     # Calculate the similarity between the words
-                    similarity_dict[word_1].update({word_2:self.model.wv.similarity(word_1, word_2)})
-                except:
-                    print("Extract_Key_Features function exception in word2Vec.")
+                    similarity_dict[word_1].update({word_2:self.model.similarity(word_1, word_2)})
+                except KeyError:
+                    # Word not in vocabulary
+                    pass
+                except Exception as e:
+                    print(f"Extract_Key_Features function exception in word2Vec: {e}")
         return similarity_dict
     
     def calculate_similarity(self, sentence_1, sentence_2):
         # Clean the sentences and split them into words
-        sentence_1 = self.clean_sentence(sentence_1); words_1 = sentence_1.split()
-        sentence_2 = self.clean_sentence(sentence_2); words_2 = sentence_2.split()
+        sentence_1 = self.clean_sentence(sentence_1)
+        words_1 = sentence_1.split()
+        sentence_2 = self.clean_sentence(sentence_2)
+        words_2 = sentence_2.split()
 
         # Extract key features
         similarity_dict = self.extract_key_features(words_1, words_2)
             
-        # Extract informations from the similarity_dict
+        # Extract information from the similarity_dict
         key_features = []
         for key, value in similarity_dict.items():
             if len(value) > 0:
@@ -290,12 +294,14 @@ class SentenceComparator_Word2Vec(SentenceComparator):
                 best_key = sorted_dict[0][0]
 
                 key_features.append({"key":key, "score":max_score,"best_match":best_key})
-
+        
         # Calculate the average score
+        if not key_features:
+            return 0.0  # Return 0 if no matches were found
+            
         avg_score = sum([x["score"] for x in key_features]) / len(key_features)
 
-        return avg_score#,key_features
-
+        return avg_score
 
 import atexit
 import os
@@ -348,7 +354,3 @@ class SentenceComparator_jpype(SentenceComparator):
 #jvm = SentenceComparator_jpype()
 #test_sentence = "Bu güzel bir gün."
 #print(jvm.calculate_similarity("keşke hemen şurada okulu bıraksan.", test_sentence))
-
-if __name__ == "__main__":
-    # Create a SentenceComparator object
-    pass
