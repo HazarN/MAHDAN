@@ -36,7 +36,7 @@ class SentenceComparator_Ollama( SentenceComparator ):
                 },
                 {
                     'role': 'assistant',
-                    'content': "değerlendirme: 0"
+                    'content': "Result: 0"
                 },
                 {
                     'role': 'user',
@@ -44,18 +44,32 @@ class SentenceComparator_Ollama( SentenceComparator ):
                 },
                 {
                     'role': 'assistant',
-                    'content': "değerlendirme: 1"
+                    'content': "Result: 1"
                 }
             ]
         self.generate_model()
-    
+
     def generate_model(self):
-        modelfile = f'''
-        FROM {self.llama_version}
-        SYSTEM {self.system_prompt} 
-        PARAMETER temperature {self.temperature}
-        '''
-        ollama.create(model=f'MAHDAN_{self.llama_version}', modelfile=modelfile)
+        
+        print("Overwriting the model")
+        #if self.check_model_is_exist():
+        #    ollama.delete(model=self.model_name)
+
+        parameters = {"temperature": self.temperature}
+        ollama.create(
+            model=f'MAHDAN_{self.llama_version}',
+            from_=self.llama_version,
+            system=self.system_prompt,
+            parameters=parameters
+        )
+        print("Model created, Model name:", self.model_name) 
+
+    def check_model_is_exist(self):
+            try:
+                ollama.show(model=self.model_name)
+                return True
+            except Exception:
+                return False
 
     def calculate_similarity(self,sentence_1,sentence_2):
         sentence_in = 'İlk Cümle: ' + sentence_1 + ' ,\n İkinci Cümle: ' + sentence_2        
