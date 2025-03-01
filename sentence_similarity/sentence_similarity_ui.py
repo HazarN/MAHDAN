@@ -1,12 +1,14 @@
-import sys;import os;sys.path.append(os.getcwd())
+import sys
+import os
+import json
+sys.path.append(os.getcwd())
 
 import pandas as pd
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, 
                             QLabel, QComboBox, QPushButton, QTextEdit, QTabWidget, 
                             QTableWidget, QTableWidgetItem, QSplitter, QFileDialog,
                             QGroupBox, QLineEdit, QMessageBox, QProgressBar, QScrollArea,
-                            QSizePolicy)
-from PyQt5.QtCore import Qt, QThread, pyqtSignal
+                            QSizePolicy, QListWidget, QInputDialog)
 
 from sentence_similarity.sentence_similarity_comperators import (
     SentenceComparator_Word2Vec,
@@ -18,7 +20,7 @@ from sentence_similarity.sentence_similarity_comperators import (
     SentenceComparator_sentiment_analysis
 )
 
-from sentence_similarity.llm_worker import ModelWorker
+from sentence_similarity.model_worker import ModelWorker
 
 class SentenceSimilarityUI(QMainWindow):
     def __init__(self):
@@ -26,6 +28,8 @@ class SentenceSimilarityUI(QMainWindow):
         self.setWindowTitle("Sentence Similarity Analyzer")
         self.setGeometry(100, 100, 1200, 800)
         
+        # Storage file path
+        self.storage_file = "sentence_similarity/utils/pyqt_app_storage.json"
         
         # Initialize models dictionary
         self.models = {}
@@ -33,7 +37,7 @@ class SentenceSimilarityUI(QMainWindow):
         self.current_model_name = ""
         self.default_sentences = [
             "C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilebilir.",
-            "C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendrilemez.",
+            "C'nin dikkat ve özen yükümlülüğüne aykırı davranmış olması nedeniyle kusurlu olduğu değerlendirilemez.",
             "C kişisi marketten alışveriş yapmıştır ve kasada ödeme yapmadan çıkmıştır.",
             "C kişisi kasada ödeme yapmadan marketten çıkmıştır.",
             "C kasaya ödeme yapması gerekirken yapmamıştır."
@@ -55,6 +59,9 @@ class SentenceSimilarityUI(QMainWindow):
         self.tabs.addTab(self.setup_tab, "Setup & Run")
         self.tabs.addTab(self.results_tab, "Results")
         
+        # Load saved sentences
+        self.sentences = self.load_sentences()
+        
         # Setup the tabs
         self.init_setup_tab()
         self.init_results_tab()
@@ -65,6 +72,29 @@ class SentenceSimilarityUI(QMainWindow):
         # Create log directory if it doesn't exist
         if not os.path.exists("log"):
             os.makedirs("log")
+    
+    def load_sentences(self):
+        # Load sentences from the JSON file if it exists
+        if os.path.exists(self.storage_file):
+            try:
+                with open(self.storage_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    return data.get('sentences', self.default_sentences)
+            except Exception as e:
+                print(f"Error loading sentences: {e}")
+                return self.default_sentences
+        else:
+            return self.default_sentences
+    
+    def save_sentences(self):
+        # Save the current sentences to the JSON file
+        try:
+            sentences = [self.sentences_list.item(i).text() for i in range(self.sentences_list.count())]
+            data = {'sentences': sentences}
+            with open(self.storage_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
+        except Exception as e:
+            QMessageBox.warning(self, "Save Error", f"Failed to save sentences: {str(e)}")
     
     def init_setup_tab(self):
         layout = QVBoxLayout(self.setup_tab)
@@ -117,14 +147,30 @@ class SentenceSimilarityUI(QMainWindow):
         
         layout.addWidget(model_group)
         
-        # Test sentences
+        # Test sentences with list appearance
         sentences_group = QGroupBox("Test Sentences")
         sentences_layout = QVBoxLayout(sentences_group)
         
-        self.sentences_text = QTextEdit()
-        self.sentences_text.setPlaceholderText("Enter one sentence per line. These sentences will be compared against each other.")
-        self.sentences_text.setText("\n".join(self.default_sentences))
-        sentences_layout.addWidget(self.sentences_text)
+        # List widget for sentences
+        self.sentences_list = QListWidget()
+        sentences_layout.addWidget(self.sentences_list)
+        
+        # Add the default or loaded sentences to the list
+        for sentence in self.sentences:
+            self.sentences_list.addItem(sentence)
+        
+        # Buttons for managing sentences
+        btn_layout = QHBoxLayout()
+        
+        self.add_sentence_btn = QPushButton("Add Sentence")
+        self.add_sentence_btn.clicked.connect(self.add_sentence)
+        btn_layout.addWidget(self.add_sentence_btn)
+        
+        self.remove_sentence_btn = QPushButton("Remove Selected")
+        self.remove_sentence_btn.clicked.connect(self.remove_selected_sentence)
+        btn_layout.addWidget(self.remove_sentence_btn)
+        
+        sentences_layout.addLayout(btn_layout)
         
         layout.addWidget(sentences_group)
         
@@ -141,6 +187,26 @@ class SentenceSimilarityUI(QMainWindow):
         run_layout.addWidget(self.run_btn)
         
         layout.addWidget(run_group)
+    
+    def add_sentence(self):
+        # Open an input dialog to get a new sentence
+        sentence, ok = QInputDialog.getText(self, "Add Sentence", "Enter a new sentence:")
+        if ok and sentence:
+            self.sentences_list.addItem(sentence)
+            self.save_sentences()  # Save after adding a new sentence
+    
+    def remove_selected_sentence(self):
+        # Remove the selected sentence from the list
+        selected_items = self.sentences_list.selectedItems()
+        if not selected_items:
+            QMessageBox.warning(self, "No Selection", "Please select a sentence to remove.")
+            return
+        
+        for item in selected_items:
+            row = self.sentences_list.row(item)
+            self.sentences_list.takeItem(row)
+        
+        self.save_sentences()  # Save after removing a sentence
     
     def init_results_tab(self):
         layout = QVBoxLayout(self.results_tab)
@@ -194,9 +260,8 @@ class SentenceSimilarityUI(QMainWindow):
             QMessageBox.warning(self, "No Model Selected", "Please load a model first.")
             return
         
-        # Get sentences from text edit
-        sentences_text = self.sentences_text.toPlainText()
-        sentences = [line.strip() for line in sentences_text.split('\n') if line.strip()]
+        # Get sentences from the list widget
+        sentences = [self.sentences_list.item(i).text() for i in range(self.sentences_list.count())]
         
         if len(sentences) < 2:
             QMessageBox.warning(self, "Not Enough Sentences", "Please enter at least two sentences for comparison.")
