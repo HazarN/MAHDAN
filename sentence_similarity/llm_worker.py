@@ -16,14 +16,13 @@ class ModelWorker(QThread):
     def run(self):
         # Create log and excel files
         print(f"Running {self.model_name} model worker")
-        self.logger.create_log(f"{self.model_name}_log.txt", "Score is calculated in the range of 0-1. Higher score indicates higher similarity.")
         
         if self.model_name == "NLI":
-            self.logger.create_excel_file(f"{self.model_name}_log.xlsx", "Results", {"Sentence1": [], "Sentence2": [], "label": [], "score": []})
+            self.logger.create_csv_file(f"{self.model_name}_log.csv", "Results", {"Sentence1": [], "Sentence2": [], "label": [], "score": []})
         elif self.model_name == "Sentiment Analysis":
-            self.logger.create_excel_file(f"{self.model_name}_log.xlsx", "Results", {"Sentence1": [], "Sentence2": [], "sentiment_1": [], "sentiment_2": []})
+            self.logger.create_csv_file(f"{self.model_name}_log.csv", "Results", {"Sentence1": [], "Sentence2": [], "sentiment_1": [], "sentiment_2": []})
         else:
-            self.logger.create_excel_file(f"{self.model_name}_log.xlsx", "Results", {"Sentence1": [], "Sentence2": [], "Result": []})
+            self.logger.create_csv_file(f"{self.model_name}_log.csv", "Results", {"Sentence1": [], "Sentence2": [], "Result": []})
         
         # Compare the sentences
         results = []
@@ -46,7 +45,7 @@ class ModelWorker(QThread):
                                 "score": result["score"],
                                 "Result": f"{result['label']}: {result['score']:.4f}"
                             }
-                            self.logger.append_to_excel(f"{self.model_name}_log.xlsx", "Results", 
+                            self.logger.append_to_csv(f"{self.model_name}_log.csv", "Results", 
                                                      {"Sentence1": sentence1, "Sentence2": sentence2, 
                                                       "label": result["label"], "score": result["score"]})
                         elif self.model_name == "Sentiment Analysis":
@@ -57,7 +56,7 @@ class ModelWorker(QThread):
                                 "sentiment_2": result[1],
                                 "Result": f"S1: {result[0]}, S2: {result[1]}"
                             }
-                            self.logger.append_to_excel(f"{self.model_name}_log.xlsx", "Results", 
+                            self.logger.append_to_csv(f"{self.model_name}_log.csv", "Results", 
                                                      {"Sentence1": sentence1, "Sentence2": sentence2, 
                                                       "sentiment_1": result[0], "sentiment_2": result[1]})
                         else:
@@ -72,13 +71,11 @@ class ModelWorker(QThread):
                                 "Sentence2": sentence2,
                                 "Result": formatted_result
                             }
-                            self.logger.append_to_excel(f"{self.model_name}_log.xlsx", "Results", 
+                            self.logger.append_to_csv(f"{self.model_name}_log.csv", "Results", 
                                                      {"Sentence1": sentence1, "Sentence2": sentence2, "Result": result})
                         
                         results.append(result_dict)
-                        self.logger.append_to_log(f"{self.model_name}_log.txt", 
-                                              f"\nSentence1: {sentence1}\nSentence2: {sentence2}\nResult: {result}")
-                        
+
                     except Exception as e:
                         result_dict = {
                             "Sentence1": sentence1,
@@ -86,9 +83,7 @@ class ModelWorker(QThread):
                             "Result": f"Error: {str(e)}"
                         }
                         results.append(result_dict)
-                        self.logger.append_to_log(f"{self.model_name}_log.txt", 
-                                              f"\nSentence1: {sentence1}\nSentence2: {sentence2}\nError: {str(e)}")
-                    
+                        
                     # Update progress
                     completed += 1
                     progress = int((completed / total_comparisons) * 100)

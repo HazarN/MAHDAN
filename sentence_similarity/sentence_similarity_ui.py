@@ -126,16 +126,6 @@ class SentenceSimilarityUI(QMainWindow):
         self.sentences_text.setText("\n".join(self.default_sentences))
         sentences_layout.addWidget(self.sentences_text)
         
-        sentences_btn_layout = QHBoxLayout()
-        self.load_sentences_btn = QPushButton("Load Sentences from File")
-        self.load_sentences_btn.clicked.connect(self.load_sentences)
-        sentences_btn_layout.addWidget(self.load_sentences_btn)
-        
-        self.reset_sentences_btn = QPushButton("Reset to Defaults")
-        self.reset_sentences_btn.clicked.connect(self.reset_sentences)
-        sentences_btn_layout.addWidget(self.reset_sentences_btn)
-        
-        sentences_layout.addLayout(sentences_btn_layout)
         layout.addWidget(sentences_group)
         
         # Run section
@@ -163,19 +153,6 @@ class SentenceSimilarityUI(QMainWindow):
         self.results_table.setAlternatingRowColors(True)
         
         layout.addWidget(self.results_table)
-        
-        # Export buttons
-        export_layout = QHBoxLayout()
-        
-        self.export_csv_btn = QPushButton("Export to CSV")
-        self.export_csv_btn.clicked.connect(self.export_to_csv)
-        export_layout.addWidget(self.export_csv_btn)
-        
-        self.export_excel_btn = QPushButton("Export to Excel")
-        self.export_excel_btn.clicked.connect(self.export_to_excel)
-        export_layout.addWidget(self.export_excel_btn)
-        
-        layout.addLayout(export_layout)
     
     def update_model_params_visibility(self):
         # Show Ollama parameters only when Ollama is selected
@@ -212,23 +189,6 @@ class SentenceSimilarityUI(QMainWindow):
         except Exception as e:
             QMessageBox.critical(self, "Error Loading Model", f"Failed to load {model_name} model: {str(e)}")
     
-    def load_sentences(self):
-        file_path, _ = QFileDialog.getOpenFileName(self, "Select Text File", "", "Text Files (*.txt)")
-        if file_path:
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    sentences = f.readlines()
-                
-                # Clean sentences and filter out empty lines
-                sentences = [line.strip() for line in sentences if line.strip()]
-                self.sentences_text.setText("\n".join(sentences))
-                
-            except Exception as e:
-                QMessageBox.critical(self, "Error Loading File", f"Failed to load sentences: {str(e)}")
-    
-    def reset_sentences(self):
-        self.sentences_text.setText("\n".join(self.default_sentences))
-    
     def run_test(self):
         if not self.current_model:
             QMessageBox.warning(self, "No Model Selected", "Please load a model first.")
@@ -245,8 +205,6 @@ class SentenceSimilarityUI(QMainWindow):
         # Disable UI during test
         self.run_btn.setEnabled(False)
         self.load_model_btn.setEnabled(False)
-        self.load_sentences_btn.setEnabled(False)
-        self.reset_sentences_btn.setEnabled(False)
         
         # Clear previous results
         self.results_table.setRowCount(0)
@@ -280,43 +238,12 @@ class SentenceSimilarityUI(QMainWindow):
         # Re-enable UI
         self.run_btn.setEnabled(True)
         self.load_model_btn.setEnabled(True)
-        self.load_sentences_btn.setEnabled(True)
-        self.reset_sentences_btn.setEnabled(True)
         
         # Update the progress bar to 100%
         self.progress_bar.setValue(100)
         
         QMessageBox.information(self, "Test Complete", "Sentence comparison test completed successfully!")
-    
-    def export_to_csv(self):
-        if not self.current_results:
-            QMessageBox.warning(self, "No Results", "There are no results to export.")
-            return
-        
-        file_path, _ = QFileDialog.getSaveFileName(self, "Save CSV File", "", "CSV Files (*.csv)")
-        if file_path:
-            try:
-                df = pd.DataFrame(self.current_results)
-                df.to_csv(file_path, index=False)
-                QMessageBox.information(self, "Export Successful", f"Results exported to {file_path}")
-            except Exception as e:
-                QMessageBox.critical(self, "Export Failed", f"Failed to export results: {str(e)}")
-    
-    def export_to_excel(self):
-        if not self.current_results:
-            QMessageBox.warning(self, "No Results", "There are no results to export.")
-            return
-        
-        file_path, _ = QFileDialog.getSaveFileName(self, "Save Excel File", "", "Excel Files (*.xlsx)")
-        if file_path:
-            try:
-                df = pd.DataFrame(self.current_results)
-                df.to_excel(file_path, index=False)
-                QMessageBox.information(self, "Export Successful", f"Results exported to {file_path}")
-            except Exception as e:
-                QMessageBox.critical(self, "Export Failed", f"Failed to export results: {str(e)}")
-    
-    
+
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = SentenceSimilarityUI()

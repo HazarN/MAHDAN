@@ -5,22 +5,8 @@ class Logging_Tools:
     def __init__(self):
         print("Utils class created.")
         pass
-
-    def create_log(self, log_name, additional_info=""):
-        log_name = "log/" + log_name
-
-        if not os.path.exists(log_name):
-            os.makedirs(os.path.dirname(log_name), exist_ok=True)
-
-        with open(log_name, 'w') as f:
-            f.write(f"Log file created. ({log_name})\nAdditional Info: {additional_info}\n")
-
-    def append_to_log(self, log_name, message):
-        log_name = "log/" + log_name
-        with open(log_name, 'a') as f:
-            f.write("\n" + message)
-
-    def create_excel_file(self, file_name, sheet_name, data):    
+    
+    def create_csv_file(self, file_name, data):
         file_name = "log/" + file_name
         # if exist, remove the file
         try:
@@ -29,18 +15,20 @@ class Logging_Tools:
             pass
         
         df = pd.DataFrame(data)
-        df.to_excel(file_name, sheet_name=sheet_name, index=False)
+        df.to_csv(file_name, index=False)
 
-    def append_to_excel(self, file_name, sheet_name, data):
+    def append_to_csv(self, file_name, data):
         file_name = "log/" + file_name
         # Data is one row
-        excel_df = pd.read_excel(file_name, sheet_name=sheet_name)
-        excel_df = pd.concat([excel_df, pd.DataFrame([data])], ignore_index=True)
-        excel_df.to_excel(file_name, sheet_name=sheet_name, index=False)
-        
-    def excel_to_df(self, file_name, sheet_name):
+        csv_df = pd.read_csv(file_name)
+        csv_df = pd.concat([csv_df, pd.DataFrame([data])], ignore_index=True)
+        csv_df.to_csv(file_name, index=False)
+
+    def csv_to_df(self, file_name):
         file_name = "log/" + file_name
-        excel_df = pd.read_excel(file_name, sheet_name=sheet_name)
-        return excel_df
+        csv_df = pd.read_csv(file_name)
+        return csv_df
+    
+
 
             
