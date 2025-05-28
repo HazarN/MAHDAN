@@ -1,10 +1,12 @@
+import { lazy, Suspense } from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import LoadingSpinner from './components/LoadingSpinner';
 
-import CrossWords from './pages/CrossWords';
-import Demo from './pages/Demo';
-import Error from './pages/Error';
-import Hangman from './pages/Hangman';
-import Home from './pages/Home';
+const Home = lazy(() => import('./pages/Home'));
+const Demo = lazy(() => import('./pages/Demo'));
+const Hangman = lazy(() => import('./pages/Hangman'));
+const CrossWords = lazy(() => import('./pages/CrossWords'));
+const Error = lazy(() => import('./pages/Error'));
 
 const browserRouter = createBrowserRouter([
   {
@@ -34,5 +36,11 @@ const browserRouter = createBrowserRouter([
   },
 ]);
 
-const App = () => <RouterProvider router={browserRouter} />;
+function App() {
+  return (
+    <Suspense fallback={<LoadingSpinner />}>
+      <RouterProvider router={browserRouter} />
+    </Suspense>
+  );
+}
 export default App;
