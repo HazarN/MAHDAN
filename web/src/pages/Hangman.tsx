@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import Layout from '../components/Layout';
@@ -6,7 +6,12 @@ import wordsList from '../store/handmanWords.json';
 import { guessLetter, startGame } from '../store/hangmanSlice';
 import { RootState } from '../store/store';
 
-const words = wordsList.words;
+interface QA {
+  def: string;
+  ans: string;
+}
+
+const qaPairs: QA[] = wordsList.answerKey;
 
 export default function Hangman() {
   const dispatch = useDispatch();
@@ -14,12 +19,18 @@ export default function Hangman() {
     (state: RootState) => state.hangman,
   );
 
+  const [definition, setDefinition] = useState('');
+
   useEffect(() => {
-    const randomWord = words[Math.floor(Math.random() * words.length)];
-    dispatch(startGame(randomWord));
+    startNewGame();
   }, [dispatch]);
 
-  // for keyboard events
+  const startNewGame = () => {
+    const random = qaPairs[Math.floor(Math.random() * qaPairs.length)];
+    dispatch(startGame(random.ans)); // sadece cevabı store'a yolla
+    setDefinition(random.def); // tanımı ise local state olarak tut
+  };
+
   useEffect(() => {
     const regex = /^[a-zçğıöşü]$/;
 
@@ -29,7 +40,6 @@ export default function Hangman() {
       }
     };
     window.addEventListener('keydown', handleKeyDown);
-
     return () => window.removeEventListener('keydown', handleKeyDown);
   });
 
@@ -49,7 +59,13 @@ export default function Hangman() {
   return (
     <Layout>
       <div className="flex flex-col items-center justify-center min-h-[80vh] p-4">
-        <div className="text-4xl font-bold mb-8">{displayWord}</div>
+        <div className="mb-6 max-w-xl text-center text-lg">
+          <strong>Tanım:</strong> {definition}
+        </div>
+
+        <div className="text-4xl font-bold mb-8 tracking-widest">
+          {displayWord}
+        </div>
 
         <div className="mb-4">Kalan Hak: {remainingGuesses}</div>
 
@@ -75,14 +91,13 @@ export default function Hangman() {
         </div>
 
         {gameStatus !== 'playing' && (
-          <div className="mt-8 text-2xl font-bold">
-            {gameStatus === 'won' ? 'Tebrikler! Kazandınız!' : 'Oyun Bitti!'}
+          <div className="mt-8 text-2xl font-bold text-center">
+            {gameStatus === 'won'
+              ? 'Tebrikler! Kazandınız!'
+              : 'Oyun Bitti! Doğru kelime: ' + word}
+            <br />
             <button
-              onClick={() => {
-                const randomWord =
-                  words[Math.floor(Math.random() * words.length)];
-                dispatch(startGame(randomWord));
-              }}
+              onClick={startNewGame}
               className="mt-4 bg-black text-white px-6 py-2 rounded-md hover:bg-gray-800"
             >
               Yeniden Oyna

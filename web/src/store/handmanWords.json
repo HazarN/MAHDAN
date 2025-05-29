@@ -1,44 +1,24 @@
 {
-  "words": [
-    "adalet",
-    "mahkeme",
-    "hakim",
-    "avukat",
-    "hukuk",
-    "kanun",
-    "dava",
-    "savcı",
-    "müvekkil",
-    "anayasa",
-    "yargıtay",
-    "danıştay",
-    "icra",
-    "tebligat",
-    "dilekçe",
-    "temyiz",
-    "duruşma",
-    "ceza",
-    "hüküm",
-    "sanık",
-    "tanık",
-    "vekalet",
-    "miras",
-    "tapu",
-    "borç",
-    "alacak",
-    "itiraz",
-    "müdafi",
-    "bilirkişi",
-    "yönetmelik",
-    "tüzük",
-    "karar",
-    "zabıt",
-    "tutanak",
-    "beyanname",
-    "yargılama",
-    "temyiz",
-    "istinaf",
-    "müdahil",
-    "takipsizlik"
+  "answerKey": [
+    {
+      "def": "Toplum adına adli makamlar nezdinde (mahkemelerde) dava açıp iddiada bulunan kişi",
+      "ans": "savcı"
+    },
+    {
+      "def": "Bir borçlunun borcunu, kesin veya geçici olarak, tamamen veya kısmen yerine getirmekten kaçınmak için dayandığı hukuksal nedenler",
+      "ans": "defi"
+    },
+    {
+      "def": "Bir hukuki işleme yan olan kişi; yargılamada, davacı veya davalı durumunda bulunan kişi",
+      "ans": "taraf"
+    },
+    {
+      "def": "(Yargılama hukukunda) İlk derece mahkemesinin yasaya aykırı karar vermesi, yetkili olmaması, yargılama yöntemine aykırı karar vermesi gibi durumlarda, kararın bozulması için yüksek dereceli mahkemeye (yargıtaya) başvurulması",
+      "ans": "temyiz"
+    },
+    {
+      "def": "Çözümü, özel bilgi ve tekniğe bağlı konularda yargıcın başvurduğu ihtisas sahibi kimse",
+      "ans": "bilirkişi"
+    }
   ]
 }

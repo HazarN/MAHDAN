@@ -34,7 +34,6 @@ const hangmanSlice = createSlice({
           state.remainingGuesses -= 1;
         }
 
-        // Kazanma kontrolü
         const isWon = state.word
           .split('')
           .every((letter) => state.guessedLetters.includes(letter));
