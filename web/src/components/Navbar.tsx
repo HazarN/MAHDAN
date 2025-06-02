@@ -4,8 +4,8 @@ export default function Navbar({ inDemo }: { inDemo: boolean | undefined }) {
   return (
     <nav className="bg-black text-white p-4 shadow-md sticky top-0 left-0 right-0 z-50">
       <div className="flex justify-between items-center">
-        <Link to={'/'} className="text-3xl uppercase tracking-widest">
-          Mahdan
+        <Link to={'/'} className="text-3xl tracking-widest">
+          MAHDAN Academy
         </Link>
 
         {!inDemo && (

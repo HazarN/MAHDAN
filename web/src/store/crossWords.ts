@@ -42,13 +42,6 @@ export const legalTerms: LegalEntry[] = [
     definition:
       'Şahsiyet; kişi varlığı; kişinin maddi ve manevi varlığı; bir kimseyi, diğerinden ayıran fiziksel ve ruhsal varlık.',
   },
-  {
-    id: 'medenihukuk-zilyetlik',
-    category: 'MEDENİ HUKUK',
-    term: 'ZİLYETLİK',
-    definition:
-      'Bir şey üzerindeki fiili tasarruf biçiminde ortaya çıkan hâkimiyet; elmenlik.',
-  },
 
   // ANAYASA HUKUKU
   {
@@ -78,13 +71,6 @@ export const legalTerms: LegalEntry[] = [
     term: 'DEVLET',
     definition:
       'Halk, ülke, egemenlik ve ülkü birliği ile kurulan varlık; belirli bir sınırla çevrili toprağa ve örgütlenmiş halka sahip siyasi yapı.',
-  },
-  {
-    id: 'anayasa-insan-haklari',
-    category: 'ANAYASA HUKUKU',
-    term: 'İNSAN HAKLARI',
-    definition:
-      'Devlet karşısında, hiçbir ayırım gözetmeksizin bireye ait eşitlik, mülkiyet, özgürlük, güvence gibi haklar.',
   },
 
   // CEZA HUKUKU
@@ -116,13 +102,6 @@ export const legalTerms: LegalEntry[] = [
     definition:
       'İcra fiillerine başlanmasına rağmen suçun failin iradesi dışında tamamlanmaması durumu.',
   },
-  {
-    id: 'ceza-kovusturma',
-    category: 'CEZA HUKUKU',
-    term: 'KOVUŞTURMA',
-    definition:
-      'Suç işlediği bildirilen kişi hakkında adlî takip yapılması süreci; iddianamenin kabulü ile hükmün kesinleşmesine kadar geçen evre.',
-  },
 
   // BORÇLAR HUKUKU
   {
@@ -153,13 +132,6 @@ export const legalTerms: LegalEntry[] = [
     definition:
       'Belirli bir sürenin geçmesiyle hak kazanma veya yükümlülükten kurtulma durumu.',
   },
-  {
-    id: 'borclar-edim',
-    category: 'BORÇLAR HUKUKU',
-    term: 'EDİM',
-    definition:
-      'Borçlunun borcun konusunu yerine getirmesi gereken davranış; verme, yapma, yapmama şeklinde olabilir.',
-  },
 
   // İDARE HUKUKU
   {
@@ -187,12 +159,5 @@ export const legalTerms: LegalEntry[] = [
     category: 'İDARE HUKUKU',
     term: 'YEREL MAHKEME',
     definition: 'Olayı ilk derecede gören mahkeme; mahallî mahkeme.',
-  },
-  {
-    id: 'idare-vali',
-    category: 'İDARE HUKUKU',
-    term: 'VALİ',
-    definition:
-      'İlde, hükümetin temsilcisi olarak görev yapan ve idari işleri yürüten kişi.',
   },
 ];

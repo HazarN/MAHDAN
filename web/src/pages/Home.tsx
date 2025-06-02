@@ -14,11 +14,11 @@ export default function Home() {
 
         <div className="relative min-h-screen flex flex-col items-center pt-16 px-4 mt-[10vh]">
           <h1 className="text-4xl p-6 md:text-5xl font-bold text-white text-center mb-12 max-w-4xl">
-            MAHDAN | Hukukta Yapay Zeka
+            Dijital Hukuk Fakültesi
           </h1>
 
           <h6 className="text-3xl text-white text-center mb-12 max-w-4xl">
-            Yapay zekanın gücü adaletiyle birleşseydi ne olurdu?
+            Geleceğin Hukukçuları MAHDAN ile yetişiyor
           </h6>
 
           <div className="mt-[15vh] w-full max-w-7xl">
