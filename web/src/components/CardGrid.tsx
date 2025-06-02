@@ -21,7 +21,7 @@ export default function CardGrid() {
         </h2>
 
         <Link
-          to={'/demo'}
+          to={'/demo/video'}
           className="uppercase bg-black text-white px-4 py-2 rounded-md"
         >
           Demoyu Incele

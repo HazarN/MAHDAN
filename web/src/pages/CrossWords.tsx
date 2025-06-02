@@ -92,7 +92,7 @@ export default function MatchingGame() {
                 <button
                   key={item.id}
                   onClick={() => !isMatched(item.id) && setSelectedDef(item.id)}
-                  className={`p-4 h-32 border rounded-lg shadow text-sm flex items-center justify-center text-center transition-all duration-150
+                  className={`p-4 h-32 text-[8px] sm:text-[12px] md:text-[14px] lg:text-[16px] border rounded-lg shadow text-sm flex items-center justify-center text-center transition-all duration-150
                   ${
                     isMatched(item.id)
                       ? 'bg-green-200 text-green-800'

@@ -7,7 +7,7 @@ const VideoPlayer = () => {
   const [played, setPlayed] = useState(0);
 
   return (
-    <div className="max-w-6xl mx-auto m-8 p-4 bg-gray-900 rounded-xl shadow-lg">
+    <div className="max-w-7xl p-4 bg-gray-900 rounded-xl shadow-lg">
       <div className="aspect-video">
         <ReactPlayer
           ref={playerRef}

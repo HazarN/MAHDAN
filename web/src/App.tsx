@@ -2,6 +2,7 @@ import { lazy, Suspense } from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import LoadingSpinner from './components/LoadingSpinner';
 
+const CaseStudy = lazy(() => import('./pages/CaseStudy'));
 const Home = lazy(() => import('./pages/Home'));
 const Demo = lazy(() => import('./pages/Demo'));
 const Hangman = lazy(() => import('./pages/Hangman'));
@@ -15,7 +16,16 @@ const browserRouter = createBrowserRouter([
   },
   {
     path: '/demo',
-    element: <Demo />,
+    children: [
+      {
+        path: 'video',
+        element: <Demo />,
+      },
+      {
+        path: 'case',
+        element: <CaseStudy />,
+      },
+    ],
   },
   {
     path: '/mini-games',
